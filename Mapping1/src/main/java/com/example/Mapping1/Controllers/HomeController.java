@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.function.Predicate;
 
 @Controller
-@RequestMapping("home")
+@RequestMapping("home") //Adding for git
 public class HomeController {
 
     @Autowired
